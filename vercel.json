@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "app/api/generate/route.js": {
+      "maxDuration": 60
+    },
+    "app/api/github-save/route.js": {
+      "maxDuration": 30
+    }
+  }
+}

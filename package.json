@@ -1,0 +1,20 @@
+{
+  "name": "kyzen-plugin-gen",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "axios": "^1.7.7",
+    "form-data": "^4.0.0",
+    "cheerio": "^1.0.0",
+    "tough-cookie": "^4.1.4",
+    "axios-cookiejar-support": "^5.0.3"
+  }
+}
